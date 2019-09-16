@@ -1,0 +1,15 @@
+.remove {
+  margin-top: 65px;
+  text-align: center;
+  width: 40px;
+  max-width: 40px;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+a.btn.bg-dark {
+  color: white;
+}
