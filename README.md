@@ -1,4 +1,19 @@
-Any [Markdown](http://daringfireball.net/projects/markdown/) is **allowed** _here_.
+### `<Product>`
+Product Component will display the list of products inside `./reducers/cartReducer.js`
+### `<Cart>`
+Cart Component will all items in addedProducts object
+`Actions removeItem` - Will remove Items on click Remove button
+`Actions addQuantity` - Will add Items of product selected on click of +
+`Actions subtractQuantity` - Will remove Items of product selected on click of -
+### `<Checkout>`
+Will show the total amount the products located in addedProducts object
+### `<Footer>`
+### `<Home>`
+### `<Nav>`
+### `<Subtotal>`
+Will show the total amount the products located in addedProducts object
+
+
 ## Available Scripts
 
 In the project directory, you can run:

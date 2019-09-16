@@ -1,3 +1,8 @@
+/**
+ * Cart component
+ * Will trigger removeItem, addQuantity, subtractQuantity
+ * On ation of buttons in the page
+ */
 import React, { Component } from "react";
 import { connect } from "react-redux";
 import { Link } from "react-router-dom";
